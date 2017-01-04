@@ -1,0 +1,7 @@
+[
+{
+	"id": "OpenHighlightedFile",
+	"caption": "Open the highlighted file in Sublime Text",
+	"command": "open_highlighted_file"
+}
+]
