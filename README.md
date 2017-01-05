@@ -1,2 +1,2 @@
-# OpenHighlightedFile
-Sublime Text plugin that opens the highlighted text as a file in your project directory
+# Seeker
+Sublime Text plugin that finds any links in the current file. Limited to the following attributes: href, src, and template

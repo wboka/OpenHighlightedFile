@@ -1,7 +1,12 @@
 [
 {
-	"id": "OpenHighlightedFile",
-	"caption": "Open the highlighted file in Sublime Text",
-	"command": "open_highlighted_file"
+	"id": "Seeker",
+	"caption": "Seeker",
+	"children": [
+		{
+			"caption": "Find Links in Current File",
+			"command": "seeker_links"
+		}
+	]
 }
 ]
